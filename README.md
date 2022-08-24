@@ -3,8 +3,11 @@ Este es el repositorio del proyecto de la materia Sitemas embebidos
 
 ## Integrantes
 Daniela Valentina Amaya Vargas
+
 Diana
+
 Brayan
+
 Julian
 
 ## Problemática
