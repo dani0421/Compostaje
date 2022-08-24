@@ -1,7 +1,7 @@
 # Proyecto de Sistemas embebidos
 Este es el repositorio del proyecto de la materia Sitemas embebidos 
 
-## Integrantes:
+## Integrantes
 Daniela Valentina Amaya Vargas
 Diana
 Brayan
