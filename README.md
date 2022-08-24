@@ -1,5 +1,5 @@
 # Proyecto de Sistemas embebidos
-Este es el repositorio del proyecto de la materia Sitemas embebidos 
+Este es el repositorio del proyecto (Nombre del proyecto) de la materia de Sitemas embebidos 
 
 ## Integrantes
 Daniela Valentina Amaya Vargas
