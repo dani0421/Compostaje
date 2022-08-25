@@ -18,7 +18,7 @@ Cada año la cantidad de residuos organicos a nivel mundial es de 11.200 millone
 ### Objetivos Especificos:
 
 ## Alcance
-Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen no mayor a 1.76 L de residuos orgánicos en compostaje. Contará con una pantalla OLED la cual indicará al usuario la temperatura, humedad y el tiempo que aun hace falta para que el compostaje pueda ser retirado de (nombre del proyecto). 
+Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen no mayor a 1.76 L de residuos orgánicos en compostaje. Contará con 3 modos de acuerdo a cuan lleno se encuentre el tambor, los cuales podrán ser elegidos según usuario vea conveniente; una vez elegido un modo, la pantalla OLED indicará la temperatura, humedad y el tiempo que aun haga falta para que el compostaje esté listo y pueda ser retirado de (nombre del proyecto). 
 
 ## Requerimientos
 
