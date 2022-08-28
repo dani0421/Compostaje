@@ -22,5 +22,8 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 
 ## Requerimientos
 
+## Diagrama de bloques
+![Diagrama de bloques compost(2)](https://user-images.githubusercontent.com/92388558/187092891-f2678916-125e-4c9e-a82b-d6b26aae57cc.png)
+
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
