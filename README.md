@@ -22,7 +22,23 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 
 ## Requerimientos
 
+### Requerimientos funcionales
+
+* Seleccionar el nivel de compostaje que el dispositivo contiene.
+* Visualizar por medio de pantalla el tiempo que falta para finalizar el proceso.
+* Notificar al usuario cuando los filtros requieran ser reemplazados. 
+* Evitar que el dispositivo genere malos olores.
+* Notificar al usuario por medio de un mensaje vía Telegram cuando se acabó el proceso de compostaje.
+
+### Requerimientos no funcionales
+
+* El sistema requiere de un tiempo mínimo de 24 horas para realizar un proceso.
+* El sistema debe permitir consultar información sobre el proceso vía Bluetooth/WiFi.
+
+
+
 ## Diagrama de bloques
+
 ![Diagrama de bloques compost(2)](https://user-images.githubusercontent.com/92388558/187092891-f2678916-125e-4c9e-a82b-d6b26aae57cc.png)
 
 ## Referencias
