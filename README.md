@@ -6,7 +6,7 @@ Daniela Valentina Amaya Vargas
 
 Diana
 
-Brayan
+Brayan David Castro Barbosa
 
 Julian David Escobar Jamioy
 
