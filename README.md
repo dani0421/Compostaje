@@ -4,7 +4,7 @@ Este es el repositorio del proyecto (Nombre del proyecto) de la materia de Sitem
 ## Integrantes
 Daniela Valentina Amaya Vargas
 
-Diana
+Diana Patricia Cortés Nava
 
 Brayan David Castro Barbosa
 
