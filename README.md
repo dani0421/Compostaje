@@ -41,5 +41,17 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 
 ![Diagrama de bloques compost(2)](https://user-images.githubusercontent.com/92388558/187092891-f2678916-125e-4c9e-a82b-d6b26aae57cc.png)
 
+### Pantalla OLED
+Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V; donde el usuario podra observar -----------.
+
+![OLEDimagen](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/128x64-Blue-I2C-OLED-Display.jpg)
+
+El SDA se conecta al pin 33 del ESP32 y el SCL al pint 36:
+
+![OLEDKIcad](https://raw.githubusercontent.com/dani0421/Compostaje/main/OLED_kicad.png)
+
+
+
+
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
