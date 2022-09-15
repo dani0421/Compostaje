@@ -46,7 +46,7 @@ Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya
 
 ![OLEDimagen](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/128x64-Blue-I2C-OLED-Display.jpg)
 
-El SDA se conecta al pin 33 del ESP32 y el SCL al pint 36:
+El SDA se conecta al pin 33 del ESP32 y el SCL al pin 36 de ESP32, cabe resaltar que en la placa no quedaran orificios para la pantalla, unicamente los pines para hacer la conexión.
 
 ![OLEDKIcad](https://raw.githubusercontent.com/dani0421/Compostaje/main/OLED_kicad.png)
 
