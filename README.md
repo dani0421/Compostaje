@@ -15,7 +15,11 @@ Cada año la cantidad de residuos organicos a nivel mundial es de 11.200 millone
 
 ## Objetivos
 ### Objetivo General:
+Desarrollar un sistema embebido que permita darle un manejo óptimo a los desechos organicos de manera cómoda y sencilla, con el fin de poder ser implementado por cualquier usuario de manera doméstica. 
 ### Objetivos Especificos:
+* Diseñar un sistema compacto que integre diseño de PCB, programación de microcontroladores como ESP32 y diseño físico del prototipo.
+* Obtener un producto final comercial, en el que se tenga en cuenta también aspectos financieros incluyendo mano de obra.
+* Documentar todas las etapas del proceso de creación del proyecto hasta su finalización.
 
 ## Alcance
 Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen no mayor a 1.76 L de residuos orgánicos en compostaje. Contará con 3 modos de acuerdo a cuan lleno se encuentre el tambor, los cuales podrán ser elegidos según usuario vea conveniente; una vez elegido un modo, la pantalla OLED indicará la temperatura, humedad y el tiempo que aun haga falta para que el compostaje esté listo y pueda ser retirado de (nombre del proyecto). 
