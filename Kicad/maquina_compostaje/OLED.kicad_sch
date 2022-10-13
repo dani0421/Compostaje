@@ -170,7 +170,7 @@
     (property "Reference" "J8" (id 0) (at 43.18 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x04" (id 1) (at 43.18 33.0199 0)
+    (property "Value" "OLED" (id 1) (at 43.18 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical" (id 2) (at 40.64 30.48 0)

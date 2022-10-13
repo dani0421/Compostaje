@@ -197,7 +197,7 @@
     (property "Reference" "J7" (id 0) (at 41.91 26.6699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x06" (id 1) (at 41.91 29.2099 0)
+    (property "Value" "SERIAL_USB" (id 1) (at 41.91 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical" (id 2) (at 39.37 26.67 0)

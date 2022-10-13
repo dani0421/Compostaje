@@ -1248,10 +1248,10 @@
       (reference "F2") (unit 1) (value "2A") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/a31095d5-0b0d-411d-86cd-d78226a68936/678bf9f1-c73a-48aa-bdc4-7c0084b2463a"
-      (reference "J1") (unit 1) (value "Conn_01x06") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
+      (reference "J1") (unit 1) (value "OTHERS") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
     )
     (path "/a31095d5-0b0d-411d-86cd-d78226a68936/3702b9d1-3bfd-4f28-9c30-6e5165500d9b"
-      (reference "J2") (unit 1) (value "Conenctor_GPIO") (footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical")
+      (reference "J2") (unit 1) (value "GPIO") (footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical")
     )
     (path "/96535d2f-8853-458b-84dd-d3ee384c6559/36d31847-f586-468d-8c99-a0d136bc2da6"
       (reference "J3") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical")
@@ -1260,16 +1260,16 @@
       (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical")
     )
     (path "/05f3a993-cc7b-4b62-b1d6-f77c880a6ea0/4234bf08-bf82-4b95-a30a-6c7cf1a1633a"
-      (reference "J5") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical")
+      (reference "J5") (unit 1) (value "TOUCH_SENSOR") (footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical")
     )
     (path "/e9cdd4f8-1b1a-4f51-8559-691359dc0248/8459dcea-afdb-4319-b027-b20f1be44c4e"
       (reference "J6") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/5be05b80-53b6-42bd-a4ee-ee1de4364631/8cf7b48f-72bc-4715-b882-1feb4e2ce02d"
-      (reference "J7") (unit 1) (value "Conn_01x06") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
+      (reference "J7") (unit 1) (value "SERIAL_USB") (footprint "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical")
     )
     (path "/1674da6c-2f82-4894-9264-ab5868afc5fc/d2b7a24c-cebe-4cd3-9a69-df4548e91c42"
-      (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical")
+      (reference "J8") (unit 1) (value "OLED") (footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical")
     )
     (path "/2861f3a8-ad4a-42aa-aac3-60688a4500d6/729246ea-b1b1-4b23-a4af-dc561ac6a9bd"
       (reference "Q1") (unit 1) (value "BC328") (footprint "Package_TO_SOT_SMD:SOT-23")
