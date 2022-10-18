@@ -58,11 +58,16 @@ Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener 
 ![Esquema Hall](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaHall.PNG)
 
 ### Optoacoplador
-Servira para realizar un desacople fisico entre el ESP32 y el controlador de nuestros motores (LN298N) debido a que su voltaje de trabajo es diferente; se hara uso de la referencia TLP281 de 4 canales.
+Servira para realizar un desacople fisico entre el ESP32 y el controlador (LN298N) de nuestros motores, debido a que su voltaje de trabajo es diferente; se hara uso de la referencia TLP281 de 4 canales.
 ![Esquema Optoacoplador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaOptoacoplador.PNG)
 
+###Controlador de Motor
+Referencia L298N que posee 4 pines de salida, teniendo en cuenta que nuestro motor es un KH56JM2U047 de bifase y con 4 pines de entrada.
+![EsquemaControlador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaControlador.PNG)
+
+
 ### Pantalla OLED
-Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar -----------.
+Se usará la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar el tiempo que aun hace falta para que el compostaje este listo.
 
 ![OLEDimagen](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/128x64-Blue-I2C-OLED-Display.jpg)
 
