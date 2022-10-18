@@ -61,7 +61,7 @@ Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener 
 Servira para realizar un desacople fisico entre el ESP32 y el controlador (LN298N) de nuestros motores, debido a que su voltaje de trabajo es diferente; se hara uso de la referencia TLP281 de 4 canales.
 ![Esquema Optoacoplador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaOptoacoplador.PNG)
 
-###Controlador de Motor
+### Controlador de Motor
 Referencia L298N que posee 4 pines de salida, teniendo en cuenta que nuestro motor es un KH56JM2U047 de bifase y con 4 pines de entrada.
 ![EsquemaControlador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaControlador.PNG)
 
