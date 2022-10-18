@@ -57,6 +57,9 @@ Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener 
 
 ![Esquema Hall](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaHall.PNG)
 
+### Optoacoplador
+Servira para realizar un desacople fisico entre el ESP32 y el controlador de nuestros motores (LN298N) debido a que su voltaje de trabajo es diferente; se hara uso de la referencia TLP281 de 4 canales.
+![Esquema Optoacoplador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaOptoacoplador.PNG)
 
 ### Pantalla OLED
 Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar -----------.
