@@ -42,16 +42,20 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 
 ## Diagrama de bloques
 
-![Diagrama de bloques compost(2)](https://user-images.githubusercontent.com/92388558/187092891-f2678916-125e-4c9e-a82b-d6b26aae57cc.png)
+![Diagrama de bloques compost(2)](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/Esquema2.PNG)
 
 ### Potencia
 
 Para poder diseñar la etapa de potencia es necesario conocer los voltajes y corrientes de cada uno de los componentes a usar, tal como se muestra en la siguiente tabla.
 ![Tabla de potencias](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/TablaPotencia.PNG)
 
-Haciendo de un diodo rectificador y dos etapapas con AMS1117, podemos obtener en esta etapa 3 salidas de voltaje. (3.3V ,5V y 12V).
+Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener en esta etapa 3 salidas de voltaje. (3.3V ,5V y 12V).
 
 ![Esquema potencia](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaPotencia.PNG)
+
+### Sensor Efecto Hall
+
+![Esquema Hall](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaHall.PNG)
 
 
 ### Pantalla OLED
@@ -60,6 +64,11 @@ Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya
 ![OLEDimagen](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/128x64-Blue-I2C-OLED-Display.jpg)
 
 El SDA se conecta al pin 33 del ESP32 y el SCL al pin 36 de ESP32, cabe resaltar que en la placa no quedaran orificios para la pantalla, unicamente los pines para hacer la conexión.
+
+
+
+
+
 
 ![OLEDKIcad](https://raw.githubusercontent.com/dani0421/Compostaje/main/OLED_kicad.png)
 
