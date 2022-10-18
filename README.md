@@ -40,10 +40,19 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 * El sistema debe permitir consultar información sobre el proceso vía Bluetooth/WiFi.
 
 
-
 ## Diagrama de bloques
 
 ![Diagrama de bloques compost(2)](https://user-images.githubusercontent.com/92388558/187092891-f2678916-125e-4c9e-a82b-d6b26aae57cc.png)
+
+### Potencia
+
+Para poder diseñar la etapa de potencia es necesario conocer los voltajes y corrientes de cada uno de los componentes a usar, tal como se muestra en la siguiente tabla.
+![Tabla de potencias](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/TablaPotencia.PNG)
+
+Haciendo de un diodo rectificador y dos etapapas con AMS1117, podemos obtener en esta etapa 3 salidas de voltaje. (3.3V ,5V y 12V).
+
+![Esquema potencia](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaPotencia.PNG)
+
 
 ### Pantalla OLED
 Se hará uso de la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar -----------.
