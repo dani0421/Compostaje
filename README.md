@@ -67,7 +67,7 @@ Referencia L298N que posee 4 pines de salida, teniendo en cuenta que nuestro mot
 
 
 ### Pantalla OLED
-Se usará la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar el tiempo que aun hace falta para que el compostaje este listo.
+Se usará la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alimentación necesaaria es de 3.3V ([DATASHEET](https://html.alldatasheet.com/html-pdf/1179026/ETC2/SSD1306/701/6/SSD1306.html)); donde el usuario podra observar el tiempo que aun hace falta para que el compostaje este listo. Cuya dirección para I2C es 0x3C.
 
 ![OLEDimagen](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/128x64-Blue-I2C-OLED-Display.jpg)
 
