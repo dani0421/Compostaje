@@ -54,7 +54,7 @@ Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener 
 ![Esquema potencia](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaPotencia.PNG)
 
 ### Sensor Efecto Hall
-
+Es el encargado de informarnos si la helice se encuentra en movimiento.
 ![Esquema Hall](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaHall.PNG)
 
 ### Optoacoplador
@@ -73,12 +73,8 @@ Se usará la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alime
 
 El SDA se conecta al pin 33 del ESP32 y el SCL al pin 36 de ESP32, cabe resaltar que en la placa no quedaran orificios para la pantalla, unicamente los pines para hacer la conexión.
 
-
-
-
-
-
-![OLEDKIcad](https://raw.githubusercontent.com/dani0421/Compostaje/main/OLED_kicad.png)
+### Touch
+Aunque la ESP posee pines que se pueden usar como touch pero se optó por hacer uso de un touch capacitivo externo, el cual nos permitirá abrir la tapa principal, que es por donde se introducira los residuos organicos junto a la tierra que posteriormente se mezclará. La referencia a usar es HW-139
 
 
 
