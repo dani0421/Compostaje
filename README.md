@@ -74,10 +74,16 @@ Se usará la referencia SSD1306, la cual posee una matriz de 128x64 y cuya alime
 El SDA se conecta al pin 33 del ESP32 y el SCL al pin 36 de ESP32, cabe resaltar que en la placa no quedaran orificios para la pantalla, unicamente los pines para hacer la conexión.
 
 ### Touch
-Aunque la ESP posee pines que se pueden usar como touch pero se optó por hacer uso de un touch capacitivo externo, el cual nos permitirá abrir la tapa principal, que es por donde se introducira los residuos organicos junto a la tierra que posteriormente se mezclará. La referencia a usar es HW-139
+Aunque la ESP posee pines que se pueden usar como touch, se optó por hacer uso de un touch capacitivo externo, el cual nos permitirá abrir la tapa principal, que es por donde se introducira los residuos organicos junto a la tierra que posteriormente se mezclará. La referencia a usar es HW-139
 
+![image](https://user-images.githubusercontent.com/92388558/206050294-f4ffbe3c-957d-474a-8931-0f23858014df.png)
 
+### Motor
+Para el proceso de triturado de los residuos organicos y mezclado se usaran dos motores NEMA 17, estos son motores bipolares que pueden ser alimentados con un voltaje de 12 a 24 voltios, se opto por alimentarlos a un voltaje de 12V. 
+
+![image](https://user-images.githubusercontent.com/92388558/206050679-38d5722c-0e51-4c39-a9a6-b2fa4948b815.png)
 
 
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
+
