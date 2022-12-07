@@ -79,7 +79,8 @@ El servomotor se usara para abrir y cerrar la tapa de la basuera
 ![image](https://user-images.githubusercontent.com/92388558/206090041-55c7ca8b-3718-4a87-84e6-bed6820fe1f1.png)
 
 ## Diseno PCB
-
+A continuacion se muestra el diseno que se realizo para la PCB
+![image](https://user-images.githubusercontent.com/92388558/206176345-2cf26b53-12f5-442e-9872-8c918d969ea9.png)
 ![WhatsApp Image 2022-12-06 at 11 18 50 PM](https://user-images.githubusercontent.com/92388558/206091488-a48617ab-2989-4b0c-8350-624517bbf04e.jpeg)
 ![WhatsApp Image 2022-12-06 at 11 18 51 PM](https://user-images.githubusercontent.com/92388558/206091494-8e76916c-a21e-445e-94ce-51f98a43d24f.jpeg)
 ![WhatsApp Image 2022-12-06 at 11 18 09 PM](https://user-images.githubusercontent.com/92388558/206091502-7ab81310-9d4f-49e2-9170-705c4cba268f.jpeg)
