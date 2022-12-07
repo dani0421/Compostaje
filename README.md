@@ -97,12 +97,20 @@ Luego se procedio al armado de el prototipo como se muestra en las siguientes im
 ![WhatsApp Image 2022-12-06 at 11 18 10 PM](https://user-images.githubusercontent.com/92388558/206091205-581aa956-6790-4ab6-8c10-f0313806d047.jpeg)
 ![WhatsApp Image 2022-12-06 at 11 18 11 PM](https://user-images.githubusercontent.com/92388558/206091216-bbef0e60-6cba-49b8-8d09-a14d8c5d228e.jpeg)
 ![WhatsApp Image 2022-12-06 at 11 18 04 PM](https://user-images.githubusercontent.com/92388558/206091293-2fb71ed2-7330-4aa1-91ab-f08272a6f104.jpeg)
+![WhatsApp Image 2022-12-07 at 7 59 00 AM](https://user-images.githubusercontent.com/103794195/206186218-3068bf67-3806-42b3-9350-06946c226fcf.jpeg)
+
 
 
 https://user-images.githubusercontent.com/92388558/206091587-dc1af1c8-e01d-440c-9be7-15e96c51869d.mp4
 
 
 ## Pruebas de funcionamiento
+
+
+
+https://user-images.githubusercontent.com/103794195/206186310-e058958a-483b-43ef-9478-b426c58254a1.mp4
+
+
 
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
