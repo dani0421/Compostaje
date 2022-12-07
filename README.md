@@ -6,8 +6,6 @@ Daniela Valentina Amaya Vargas
 
 Diana Patricia Cortés Nava
 
-Brayan David Castro Barbosa
-
 Julian David Escobar Jamioy
 
 ## Problemática
@@ -42,8 +40,9 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 
 ## Diagrama de bloques
 
-![Diagrama de bloques compost(2)](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/Esquema2.PNG)
+![Diagrama de bloques compost(4)](https://user-images.githubusercontent.com/92388558/206089834-ab8c96dc-c758-45fa-aa8b-2dbd36a71729.png)
 
+## Componentes
 ### Potencia
 
 Para poder diseñar la etapa de potencia es necesario conocer los voltajes y corrientes de cada uno de los componentes a usar, tal como se muestra en la siguiente tabla.
@@ -78,11 +77,17 @@ Aunque la ESP posee pines que se pueden usar como touch, se optó por hacer uso 
 
 ![image](https://user-images.githubusercontent.com/92388558/206050294-f4ffbe3c-957d-474a-8931-0f23858014df.png)
 
-### Motor
+### Motor Nema
 Para el proceso de triturado de los residuos organicos y mezclado se usaran dos motores NEMA 17, estos son motores bipolares que pueden ser alimentados con un voltaje de 12 a 24 voltios, se opto por alimentarlos a un voltaje de 12V. 
 
 ![image](https://user-images.githubusercontent.com/92388558/206050679-38d5722c-0e51-4c39-a9a6-b2fa4948b815.png)
 
+### Servomotor
+
+El servomotor se usara para abrir y cerrar la tapa de la basuera 
+![image](https://user-images.githubusercontent.com/92388558/206090041-55c7ca8b-3718-4a87-84e6-bed6820fe1f1.png)
+
+# Montaje fisico
 
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
