@@ -43,26 +43,18 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 ![Diagrama de bloques compost(4)](https://user-images.githubusercontent.com/92388558/206089834-ab8c96dc-c758-45fa-aa8b-2dbd36a71729.png)
 
 ## Componentes
-### Potencia
-
-Para poder diseñar la etapa de potencia es necesario conocer los voltajes y corrientes de cada uno de los componentes a usar, tal como se muestra en la siguiente tabla.
-![Tabla de potencias](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/TablaPotencia.PNG)
-
-Haciendo uso de un diodo rectificador y dos etapas con AMS1117, podemos obtener en esta etapa 3 salidas de voltaje. (3.3V ,5V y 12V).
-
-![Esquema potencia](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaPotencia.PNG)
-
-### Sensor Efecto Hall
-Es el encargado de informarnos si la helice se encuentra en movimiento.
-![Esquema Hall](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaHall.PNG)
 
 ### Optoacoplador
 Servira para realizar un desacople fisico entre el ESP32 y el controlador (LN298N) de nuestros motores, debido a que su voltaje de trabajo es diferente; se hara uso de la referencia TLP281 de 4 canales.
 ![Esquema Optoacoplador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaOptoacoplador.PNG)
+![image](https://user-images.githubusercontent.com/92388558/206090374-d1ae5578-d8eb-407b-bdd5-14a63545aa35.png)
+
 
 ### Controlador de Motor
 Referencia L298N que posee 4 pines de salida, teniendo en cuenta que nuestro motor es un KH56JM2U047 de bifase y con 4 pines de entrada.
 ![EsquemaControlador](https://raw.githubusercontent.com/dani0421/Compostaje/main/Imagenes/EsquemaControlador.PNG)
+
+![image](https://user-images.githubusercontent.com/92388558/206090517-8131f3aa-ace3-4e3b-b908-f86b8900f778.png)
 
 
 ### Pantalla OLED
