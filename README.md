@@ -80,6 +80,11 @@ El servomotor se usara para abrir y cerrar la tapa de la basuera
 
 ## Diseno PCB
 
+![WhatsApp Image 2022-12-06 at 11 18 50 PM](https://user-images.githubusercontent.com/92388558/206091488-a48617ab-2989-4b0c-8350-624517bbf04e.jpeg)
+![WhatsApp Image 2022-12-06 at 11 18 51 PM](https://user-images.githubusercontent.com/92388558/206091494-8e76916c-a21e-445e-94ce-51f98a43d24f.jpeg)
+![WhatsApp Image 2022-12-06 at 11 18 09 PM](https://user-images.githubusercontent.com/92388558/206091502-7ab81310-9d4f-49e2-9170-705c4cba268f.jpeg)
+
+
 ## Montaje fisico
 Para el montaje fisico se imprimeron en 3D las siguientes piezas:
 
@@ -92,6 +97,11 @@ Luego se procedio al armado de el prototipo como se muestra en las siguientes im
 ![WhatsApp Image 2022-12-06 at 11 18 11 PM](https://user-images.githubusercontent.com/92388558/206091216-bbef0e60-6cba-49b8-8d09-a14d8c5d228e.jpeg)
 ![WhatsApp Image 2022-12-06 at 11 18 04 PM](https://user-images.githubusercontent.com/92388558/206091293-2fb71ed2-7330-4aa1-91ab-f08272a6f104.jpeg)
 
+
+https://user-images.githubusercontent.com/92388558/206091587-dc1af1c8-e01d-440c-9be7-15e96c51869d.mp4
+
+
+## Pruebas de funcionamiento
 
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
