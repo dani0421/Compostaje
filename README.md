@@ -78,7 +78,20 @@ Para el proceso de triturado de los residuos organicos y mezclado se usaran dos 
 El servomotor se usara para abrir y cerrar la tapa de la basuera 
 ![image](https://user-images.githubusercontent.com/92388558/206090041-55c7ca8b-3718-4a87-84e6-bed6820fe1f1.png)
 
-# Montaje fisico
+## Diseno PCB
+
+## Montaje fisico
+Para el montaje fisico se imprimeron en 3D las siguientes piezas:
+
+![WhatsApp Image 2022-12-06 at 11 18 11 PM(2)](https://user-images.githubusercontent.com/92388558/206090927-1d327710-17fa-4720-bf57-ffd8eaa94d02.jpeg)
+
+Luego se procedio al armado de el prototipo como se muestra en las siguientes imagenes:
+
+![WhatsApp Image 2022-12-06 at 11 18 11 PM(1)](https://user-images.githubusercontent.com/92388558/206091015-98ee0375-e68c-40c7-9edd-ef3a9357188c.jpeg)
+![WhatsApp Image 2022-12-06 at 11 18 10 PM](https://user-images.githubusercontent.com/92388558/206091205-581aa956-6790-4ab6-8c10-f0313806d047.jpeg)
+![WhatsApp Image 2022-12-06 at 11 18 11 PM](https://user-images.githubusercontent.com/92388558/206091216-bbef0e60-6cba-49b8-8d09-a14d8c5d228e.jpeg)
+![WhatsApp Image 2022-12-06 at 11 18 04 PM](https://user-images.githubusercontent.com/92388558/206091293-2fb71ed2-7330-4aa1-91ab-f08272a6f104.jpeg)
+
 
 ## Referencias
 [1] Nations, U. (2022). Datos y cifras | Naciones Unidas. Retrieved 24 August 2022, from https://www.un.org/es/actnow/facts-and-figures
