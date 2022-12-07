@@ -35,7 +35,6 @@ Elaborar un (nombre del proyecto) capaz de transformar, en cada uso, un volumen 
 ### Requerimientos no funcionales
 
 * El sistema requiere de un tiempo mínimo de 24 horas para realizar un proceso.
-* El sistema debe permitir consultar información sobre el proceso vía Bluetooth/WiFi.
 
 
 ## Diagrama de bloques
